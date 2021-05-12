@@ -3,7 +3,7 @@
 * JDK 11
 * Maven
 # Running the application
-There are several ways to run a Spring Boot application on your local machine. One way is to execute the main method in the de.codecentric.springbootsample.Application class from your IDE.
+There are several ways to run a Spring Boot application on your local machine. One way is to execute the main method in the SpringWebfluxApplication class from your IDE.
 # Technical functionality
 Spring Weblux Api is a simple app, functionality:
 * downloading post from the [JSONPlaceholder](https://jsonplaceholder.typicode.com/)(Free fake API for testing and prototyping).
